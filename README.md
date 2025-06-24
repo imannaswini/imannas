@@ -26,8 +26,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Mannaswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=iammannaswini&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iammannaswini&layout=compact&theme=github_dark)
+
+![Mannaswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=imannaswini&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imannaswini&layout=compact&theme=github_dark)
 
 ---
 
