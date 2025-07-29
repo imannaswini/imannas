@@ -10,9 +10,9 @@
 ---
 
 ## 🛠 Tech Stack
-- **Frontend**: Next.js, Tailwind CSS  
-- **Backend**: Next.js (API routes)  
-- **Database**: MongoDB  
+- **Frontend**: React.js, HTML CSS JS
+- **Backend**: NODE.js
+- **Database**: MongoDB  MYSQl
 - **Tools**: Git, VS Code  
 
 ---
