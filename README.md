@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Mannaswini!
 
 🎓 CSE undergrad passionate about becoming a full-stack developer with cloud expertise.  
-💻 Currently building:
-   **PhotoVerse** – a photography platform for portfolios, learning, selling, and networking.  
+ 
 🧠 Also developed **GradTrack** – a graduation guide & job readiness tracker for students.  
-📈 Learning by doing: implementing **MongoDB** and **Next.js** in real projects.  
-☁️ Exploring Cloud & DevOps soon!
+📈 Learning by doing: implementing **MongoDB** and **React.js** in real projects.  
+☁️ Exploring Gen AI soon!
 
 ---
 
@@ -13,7 +12,7 @@
 - **Frontend**: React.js, HTML CSS JS
 - **Backend**: NODE.js
 - **Database**: MongoDB  MYSQl
-- **Tools**: Git, VS Code  
+- **Tools**: Git,Git Hub, VS Code 
 
 ---
 
@@ -114,6 +113,8 @@ A developer portfolio site to showcase my projects, skills, and achievements wit
 
 ![Mannaswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=imannaswini&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imannaswini&layout=compact&theme=github_dark)
+![Manna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imannaswini&theme=github-compact)
+
 
 ---
 
