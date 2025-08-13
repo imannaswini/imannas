@@ -1,129 +1,84 @@
-# 👋 Hi, I'm Mannaswini!
+# 👋 Hi, I'm Mannaswini!  
 
-🎓 CSE undergrad passionate about becoming a full-stack developer with cloud expertise.  
- 
-🧠 Also developed **GradTrack** – a graduation guide & job readiness tracker for students.  
-📈 Learning by doing: implementing **MongoDB** and **React.js** in real projects.  
-☁️ Exploring Gen AI soon!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imannaswini&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/imannaswini?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/imannaswini?label=Stars&style=social" alt="GitHub Stars" />
+</p>
+
+🎓 **CSE undergrad** passionate about becoming a **Full-Stack Developer** with cloud expertise.  
+🧠 Creator of **GradTrack** – a graduation guide & job readiness tracker for students.  
+📈 Learning by doing: building with **MongoDB** and **React.js** in real projects.  
+☁️ Excited to explore **Gen AI** soon!  
 
 ---
 
 ## 🛠 Tech Stack
-- **Frontend**: React.js, HTML CSS JS
-- **Backend**: NODE.js
-- **Database**: MongoDB  MYSQl
-- **Tools**: Git,Git Hub, VS Code 
+- **Frontend**: React.js, HTML, CSS, JavaScript  
+- **Backend**: Node.js  
+- **Database**: MongoDB, MySQL  
+- **Tools**: Git, GitHub, VS Code  
 
 ---
 
 ## 📂 Projects
 
-## 💬 Real-Time Chat Application
-
-A full-stack chat application enabling real-time private and group messaging, built to simulate a modern messaging platform.
-
-### 🔧 Tech Stack
-- **Frontend:** React.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Real-Time Communication:** Socket.io
-
-### 🌟 Key Features
-- Real-time chat with Socket.io (WebSockets)
-- Private and group messaging
-- Active user status display
-- Responsive UI for mobile and desktop
-
-### 🧠 What I Learned
-- WebSocket setup and event management
-- MongoDB data modeling for messages and users
-- React state management in real-time applications
+### 💬 Real-Time Chat Application
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io  
+- Real-time private & group chat  
+- Active user status display  
+- Responsive UI for all devices  
+**Learned:** WebSockets, MongoDB data modeling, real-time state management in React.
 
 ---
 
-## 🎓 GradTrack – Student Upskilling Platform
-
-A web application that helps undergraduates upskill with curated content, domain-specific quizzes, and expert guidance tools.
-
-### 🔧 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MySQL
-- **API Communication:** Fetch API
-- **Testing:** Postman
-
-### 🌟 Key Features
-- Resource & quiz portal by domain
-- Hackathon and event alerts
-- Expert connect for career and research mentorship
-- RESTful API integration for seamless data flow
-
-### 🧠 What I Learned
-- Full CRUD operations using Express and MySQL
-- REST API design and testing with Postman
-- Client-server integration with Fetch API
+### 🎓 GradTrack – Student Upskilling Platform
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL  
+- Resource & quiz portal by domain  
+- Hackathon/event alerts & expert connect  
+**Learned:** CRUD with MySQL, REST API design, API testing with Postman.
 
 ---
 
-## 🧑‍🎓 Student Management System
-
-A CRUD-based React.js application to manage student records using a mock JSON backend.
-
-### 🔧 Tech Stack
-- **Frontend:** React.js
-- **Backend (Mock):** JSON
-
-### 🌟 Key Features
-- Add, edit, delete, and view student records
-- Component-based structure
-- UI designed for simplicity and clarity
-
-### 🧠 What I Learned
-- React CRUD patterns
-- State and props handling
-- Simulating APIs with static JSON
+### 🧑‍🎓 Student Management System
+**Tech Stack:** React.js, JSON (mock backend)  
+- Add, edit, delete, view student records  
+**Learned:** React CRUD patterns, props/state management.
 
 ---
 
-## 🌐 Personal Portfolio Website
+### 🌐 Personal Portfolio Website
+**Tech Stack:** React.js, EmailJS  
+- Fully responsive design  
+- Contact form without backend  
+**Learned:** UI/UX best practices, responsive layouts.
 
-A developer portfolio site to showcase my projects, skills, and achievements with built-in contact functionality.
+---
 
-### 🔧 Tech Stack
-- **Frontend:** React.js
-- **Contact Integration:** EmailJS
+**📊 DSA Mini Project:** BFS & DFS with adjacency list.  
+**🧠 DAA Mini Project:** DFS traversal for deep graph exploration.
 
-### 🌟 Key Features
-- Fully responsive layout
-- Dynamic project and skills sections
-- Contact form using EmailJS (no backend required)
-
-### 🧠 What I Learned
-- UI/UX best practices
-- Service-based email integration
-- Responsive design principles
-
-
-**📊 DSA Mini Project**: Implemented BFS and DFS using adjacency list representation to demonstrate efficient graph traversal algorithms.  
-**🧠 DAA Mini Project**: DFS traversal using adjacency lists for exploring graph nodes deeply and efficiently.
-
-
+---
 
 ## 📊 GitHub Stats
 
-![Mannaswini's GitHub stats](https://github-readme-stats.vercel.app/api?username=imannaswini&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imannaswini&layout=compact&theme=github_dark)
-![Manna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imannaswini&theme=github-compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imannaswini&show_icons=true&theme=github_dark" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imannaswini&layout=compact&theme=github_dark" height="180em" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imannaswini&theme=github-compact" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mannaswini-p-a-4b4343291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mannaswini-p-a-4b4343291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
 ### ✨ Fun Fact
-By day, I squash bugs and push commits. By night, I chase sunsets and frame perfect shots. Whether it's a broken API or a blurred photo — I’ll fix it, focus it, and ship it.
+By day, I squash bugs and push commits.  
+By night, I chase sunsets and frame perfect shots.  
 Full-stack by profession. Photographer by obsession. Fueled by coffee ☕ and curiosity.
-
