@@ -1,31 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=Hi%20there,%20I'm%20imannaswini%20👋&fontSize=35&fontColor=ffffff)
  
-import React from "react";
-
-export default function Banner() {
-  return (
-    <div className="bg-gradient-to-r from-gray-900 via-purple-800 to-indigo-900 text-white p-10 rounded-2xl shadow-lg text-center">
-      <h1 className="text-4xl font-bold mb-4">Hi, I'm Imannaswini 👋</h1>
-      <p className="text-lg mb-6">
-        Full Stack Developer | GenAI Learner | Open Source Contributor 
-      </p>
-      <div className="flex justify-center gap-4">
-        <a
-          href="https://github.com/imannaswini"
-          className="bg-white text-gray-900 px-6 py-2 rounded-xl font-semibold hover:bg-gray-200"
-        >
-          View My GitHub
-        </a>
-        <a
-          href="#projects"
-          className="bg-purple-600 px-6 py-2 rounded-xl font-semibold hover:bg-purple-700"
-        >
-          See My Projects
-        </a>
-      </div>
-    </div>
-  );
-}
+Hi Im Mannaswini
 
 
 <p align="center">
