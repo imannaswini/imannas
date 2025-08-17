@@ -1,3 +1,4 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=Hi%20there,%20I'm%20imannaswini%20👋&fontSize=35&fontColor=ffffff)
 # 👋 Hi, I'm Mannaswini!  
 
 <p align="center">
