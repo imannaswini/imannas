@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/stars/imannaswini?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
-🎓 **CSE undergrad** passionate about becoming a **Full-Stack Developer** with cloud expertise.  
+🎓 CSE undergrad passionate about becoming a Full-Stack Developer.  
 🧠 Creator of **GradTrack** – a graduation guide & job readiness tracker for students.  
 📈 Learning by doing: building with **MongoDB** and **React.js** in real projects.  
 ☁️ Excited to explore **Gen AI** soon!  
@@ -59,6 +59,11 @@
 **🧠 DAA Mini Project:** DFS traversal for deep graph exploration.
 
 ---
+## 🌐 Open Source Contributions
+- 🌍 Contributor at **GSSoC 2025**  
+- 🌍 Contributor at **Open Source Connect India 2025**  
+
+---
 
 ## 📊 GitHub Stats
 
@@ -71,6 +76,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imannaswini&theme=github-compact" />
 </p>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=imannaswini&theme=radical&hide_border=false)
+
+ ![Trophies](https://github-profile-trophy.vercel.app/?username=imannaswini&theme=radical&no-frame=true&margin-w=5)  
 ---
 
 ## 🌐 Connect with Me
