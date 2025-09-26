@@ -1,102 +1,114 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=200&section=header&text=Hi%20there,%20I'm%20imannaswini%20👋&fontSize=35&fontColor=ffffff)
- 
-Hi Im Mannaswini
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=220&section=header&text=Hi%20there,%20I'm%20Mannaswini%20👋&fontSize=40&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imannaswini&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imannaswini&label=Profile+Views&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/imannaswini?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/imannaswini?label=Stars&style=social" alt="GitHub Stars" />
 </p>
 
-🎓 CSE undergrad passionate about becoming a Full-Stack Developer.  
-🧠 Creator of **GradTrack** – a graduation guide & job readiness tracker for students.  
-📈 Learning by doing: building with **MongoDB** and **React.js** in real projects.  
-☁️ Excited to explore **Gen AI** soon!  
+---
+
+### 👩‍💻 About Me  
+🎓 CSE Undergrad | 💡 Full-Stack Developer in the making | ☁️ Aspiring Gen-AI Engineer  
+
+- 🧠 **Creator of GradTrack** – graduation guide & job readiness tracker  
+- ⚡ Learning by building with **React.js** & **MongoDB**  
+- 🌱 Exploring **Generative AI** & advanced cloud tech  
+- 📸 Photographer at heart | Coffee-powered coder ☕  
 
 ---
 
-## 🛠 Tech Stack
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nodejs,express,mongodb,mysql,git,github&perline=7" />
+</p>
 
 ---
 
-## 📂 Projects
+## 🚀 Projects  
 
-### 💬 Real-Time Chat Application
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io  
-- Real-time private & group chat  
-- Active user status display  
-- Responsive UI for all devices  
-**Learned:** WebSockets, MongoDB data modeling, real-time state management in React.
+### 💬 **Real-Time Chat Application**  
+*React.js · Node.js · Express · MongoDB · Socket.io*  
+- 1-to-1 & group chat with live user status  
+- Responsive across all devices  
+- **Key Learnings:** WebSockets, MongoDB data modeling, real-time React state
 
 ---
 
-### 🎓 GradTrack – Student Upskilling Platform
-**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MySQL  
+### 🎓 **GradTrack – Student Upskilling Platform**  
+*HTML · CSS · JavaScript · Node.js · Express · MySQL*  
 - Resource & quiz portal by domain  
 - Hackathon/event alerts & expert connect  
-**Learned:** CRUD with MySQL, REST API design, API testing with Postman.
+- **Key Learnings:** REST APIs, CRUD with MySQL, Postman testing
 
 ---
 
-### 🧑‍🎓 Student Management System
-**Tech Stack:** React.js, JSON (mock backend)  
+### 🧑‍🎓 **Student Management System**  
+*React.js · JSON (mock backend)*  
 - Add, edit, delete, view student records  
-**Learned:** React CRUD patterns, props/state management.
+- **Key Learnings:** React CRUD, props/state management
 
 ---
 
-### 🌐 Personal Portfolio Website
-**Tech Stack:** React.js, EmailJS  
+### 🌐 **Personal Portfolio Website**  
+*React.js · EmailJS*  
 - Fully responsive design  
-- Contact form without backend  
-**Learned:** UI/UX best practices, responsive layouts.
+- Contact form with zero backend  
+- **Key Learnings:** UI/UX principles, responsive layouts
 
 ---
 
-**📊 DSA Mini Project:** BFS & DFS with adjacency list.  
-**🧠 DAA Mini Project:** DFS traversal for deep graph exploration.
-
----
-## 🌐 Open Source Contributions
-- 🌍 Contributor at **GSSoC 2025**  
-- 🌍 Contributor at **Open Source Connect India 2025**  
+**📊 Mini Projects:**  
+- DSA: BFS & DFS with adjacency list  
+- DAA: DFS traversal for deep graph exploration
 
 ---
 
-## 📊 GitHub Stats
+## 🌍 Open Source Contributions  
+- 💚 **GSSoC 2025** Contributor  
+- 💜 **Open Source Connect India 2025** Contributor  
+
+---
+
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imannaswini&show_icons=true&theme=github_dark" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imannaswini&layout=compact&theme=github_dark" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imannaswini&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imannaswini&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imannaswini&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imannaswini&theme=tokyo-night" />
 </p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=imannaswini&theme=radical&hide_border=false)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=imannaswini&theme=tokyonight&hide_border=false" />
+</p>
 
- ![Trophies](https://github-profile-trophy.vercel.app/?username=imannaswini&theme=radical&no-frame=true&margin-w=5)  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imannaswini&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/mannaswini-p-a-4b4343291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mannaswini-p-a-4b4343291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### ✨ Fun Fact
-By day, I squash bugs and push commits.  
-By night, I chase sunsets and frame perfect shots.  
-Full-stack by profession. Photographer by obsession. Fueled by coffee ☕ and curiosity.
+### ✨ Fun Fact  
+By day, I squash bugs & push commits.  
+By night, I chase sunsets & frame perfect shots.  
+**Full-stack by profession. Photographer by obsession.**
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=150&section=footer)
