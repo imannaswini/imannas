@@ -23,12 +23,13 @@
 
 ## 👩‍💻 About Me
 
-🎓 **B.Tech Computer Science Engineering Undergraduate**  
+🎓 **B.Tech Computer Science Engineering Undergraduate – REVA University**  
 💡 Passionate about **Full-Stack Development**, **Generative AI**, and **Cloud-Native Systems**  
 🧠 I enjoy turning complex problems into elegant, scalable solutions  
-📸 Photographer & storyteller — fueled by coffee and curiosity ☕  
+📸 Photographer & storyteller — fueled by coffee and curiosity ☕
 
-**Currently focused on:**  
+**Currently focused on:**
+
 - Advanced Full-Stack Development  
 - Generative AI foundations  
 - Open-Source collaboration & real-world projects  
@@ -51,19 +52,27 @@
 
 | Project | Tech Stack | Highlights |
 |-------|-----------|-----------|
-| **Real-Time Chat Application** | React · Node.js · Express · MongoDB · Socket.io | Private & group chat, live presence, responsive UI |
-| **GradTrack** | Node.js · Express · MySQL · HTML · CSS · JavaScript | Graduation planning, domain-based quizzes, job alerts |
-| **Student Management System** | React.js · JSON | CRUD operations, state handling, modular components |
-| **Personal Portfolio** | React.js · EmailJS | Modern UI, responsive layout, backend-free contact |
+| **SPARK – Task Management Platform** | React · Node.js · Express · MongoDB · JWT | Trello-inspired Kanban task manager with role-based dashboards and secure authentication |
+| **GradTrack – Student Skill Development Platform** | Node.js · Express · MySQL · HTML · CSS · JavaScript | Career preparation platform with domain quizzes, job listings, and learning resources |
+| **Kerala Migrant Health Platform** | Next.js · TypeScript · Node.js · MongoDB · Tailwind | Multi-portal healthcare system connecting migrant workers, hospitals, and officials |
+| **Inboxly (Open Source Contribution)** | React · Tailwind · GitHub Collaboration | Built landing page UI and frontend architecture during Open Source Connect India |
 
 ---
 
 ## 🌍 Open-Source Experience
 
 - 💚 **GirlScript Summer of Code (GSSoC) 2025** — Contributor  
-- 💜 **Open Source Connect India 2025** — Contributor  
+- 💜 **Open Source Connect India (OSCI) 2025** — Contributor  
 
-> Actively collaborating, reviewing PRs, and learning from real-world codebases
+> Actively collaborating, reviewing pull requests, and learning from real-world codebases.
+
+---
+
+## 📚 Currently Learning
+
+- Generative AI & LLM applications  
+- Advanced Full-Stack System Design  
+- Cloud deployment and scalable architectures  
 
 ---
 
@@ -82,8 +91,12 @@
 
 ## 🤝 Let’s Connect
 
-💼 Open to **internships, collaborations, and learning opportunities**  
-📬 Feel free to reach out — I love building and learning with people
+💼 Open to **internships, collaborations, and learning opportunities**
+
+📬 Feel free to reach out — I love building and learning with people.
+
+- LinkedIn: https://www.linkedin.com/in/mannaswini-p-a-4b4343291  
+- Email: iammannaswini@gmail.com  
 
 ---
 
