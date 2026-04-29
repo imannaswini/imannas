@@ -1,103 +1,107 @@
-<h1 align="center">Hi, I'm Manaswini </h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Developer | Open Source Contributor</h3>
-
-<p align="center">
-  Building scalable web applications, contributing to open source, and exploring AI-driven solutions.
-</p>
+<h1 align="center">Manaswini P</h1>
+<h3 align="center">Software Engineer in Progress • Full Stack Developer • Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/imannaswini">
-    <img src="https://komarev.com/ghpvc/?username=imannaswini&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=imannaswini&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mannaswini">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:iammannaswini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 Professional Summary
+# 📊 Professional Dashboard
 
-- 🎓 B.Tech in Computer Science Engineering, **REVA University** (2023–2027)
-- 💼 Focused on **Software Development, Full Stack Engineering, and Product Building**
-- 🌐 Experienced with modern web technologies including **React.js, Next.js, Node.js, MongoDB**
-- 🤝 Active **Open Source Contributor**
-- 🚀 Interested in building impactful products with clean UI and scalable backend systems
-- 📚 Currently strengthening **Data Structures and Backend Architecture**
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-`Java` `JavaScript` `Python` `C` `SQL`
-
-**Frontend**  
-`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
-
-**Backend**  
-`Node.js` `Express.js` `REST APIs`
-
-**Database**  
-`MongoDB` `MySQL`
-
-**Tools & Platforms**  
-`Git` `GitHub` `VS Code` `Figma`
+| Category | Details |
+|---------|---------|
+| 🎓 Education | B.Tech CSE, REVA University (2023–2027) |
+| 💼 Role Focus | Software Development / Full Stack Engineering |
+| 🌍 Location | Bengaluru, India |
+| 🤝 Open To | Internships • Collaborations • Open Source |
+| 📚 Learning | DSA • System Design • Backend Architecture |
 
 ---
 
-## 🌟 Featured Projects
+# 🛠 Tech Stack
 
-### 🔹 HerPulseAI
-AI-powered platform designed to support women’s health awareness through intelligent digital solutions.
-
-**Tech Stack:** React.js, Node.js, MongoDB, AI APIs
-
----
-
-### 🔹 OpenEnv
-Developer productivity tool that simplifies environment setup and project initialization workflows.
-
-**Tech Stack:** JavaScript, Node.js, GitHub
-
----
-
-### 🔹 SPARK – Task Management Platform
-Role-based full stack task management system with secure authentication and dedicated admin/member dashboards.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT
-
----
-
-### 🔹 Kerala Migrant Health Platform
-Multi-portal healthcare platform for workers, hospitals, and government authorities.
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, MongoDB
-
----
-
-## 🤝 Open Source Contributions
-
-### 🔹 OSCI-25 Program
-Contributed to **Inboxly** by setting up frontend architecture using **React (Vite)** and **Tailwind CSS**, along with building the landing page UI.
-
-### 🔹 DevTrack Club
-Collaborated on student-focused tech initiatives involving frontend development, UI/UX design, and product contribution.
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imannaswini&show_icons=true&theme=tokyonight&hide_border=true" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,mysql" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imannaswini&theme=tokyonight&hide_border=true" />
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind" />
+</p>
+
+### Backend & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-- 💼 LinkedIn: www.linkedin.com/in/mannaswini  
-- 📧 Email: iammannaswini@gmail.com  
-- 💻 GitHub: github.com/imannaswini
+| Project | Description | Stack |
+|--------|-------------|------|
+| **HerPulseAI** | AI-powered women’s wellness platform | React, Node.js, MongoDB |
+| **OpenEnv** | Developer environment automation tool | JavaScript, Node.js |
+| **SPARK** | Role-based task management platform | MERN, JWT |
+| **Kerala Migrant Health** | Multi-user healthcare management system | Next.js, TS, MongoDB |
+
 ---
+
+# 🤝 Contributions
+
+| Organization | Contribution |
+|-------------|-------------|
+| **OSCI-25** | Built Inboxly frontend architecture using React + Tailwind |
+| **DevTrack Club** | UI/UX design and student product development |
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Finalist – Elite Her Hackathon  
+- 🎯 UI/UX Contributor – GDSC Solution Challenge 2025  
+- 💡 Participant – Code4Edtech Hackathon  
+- ⚡ Participant – Argonyx'24  
+- 🎨 Participant – Designathon  
+
+---
+
+# 📈 GitHub Metrics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imannaswini&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=imannaswini&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=imannaswini&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+<a href="https://github.com/imannaswini">GitHub</a> •
+<a href="https://www.linkedin.com/in/mannaswini">LinkedIn</a> •
+<a href="mailto:iammannaswini@gmail.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+<i>Building scalable products with clean code and strong fundamentals.</i>
+</p>
