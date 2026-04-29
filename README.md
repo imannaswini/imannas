@@ -1,5 +1,5 @@
-<h1 align="center"> Manaswini </h1>
-<h3 align="center"> Full Stack Developer •  Open Source Contributor • AI Explorer</h3>
+<h1 align="center"> Mannaswini </h1>
+<h3 align="center"> Full Stack Developer •  Open Source Contributor • Agentic AI and Gen AI enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Creating+Impactful+Tech+Products;Learning+Everyday+%26+Growing+Fast;Future+Software+Engineer" />
